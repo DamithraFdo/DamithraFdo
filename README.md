@@ -42,11 +42,9 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamithraFdo/DamithraFdo/output/github-snake.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/DamithraFdo/DamithraFdo/output/github-snake.svg)
 
 ---
 
