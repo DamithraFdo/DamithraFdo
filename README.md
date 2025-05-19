@@ -22,10 +22,11 @@
 
 ### 💼 Featured Projects
 
-- 🔍 [**BuzzBee**](https://github.com/yourlink) – Smart IoT farming defense against wildlife
-- ⚡ [**Electracker**](https://github.com/yourlink) – Real-time household energy optimization
-- 🚗 [**Eco-Speed**](https://github.com/yourlink) – Fuel-efficient digital speed controller
-- 🤖 [**Subulu**](https://github.com/yourlink) – AI-powered robotic companion toy
+- ⚡ [**Electracker**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Real-time household energy optimization
+- 🤖 [**Subulu**]([https://github.com/yourlink](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link)) – AI-powered robotic companion toy
+- 🔍 [**BuzzBee**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Smart IoT farming defense against wildlife
+- 🚗 [**Eco-Speed**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Fuel-efficient digital speed controller
+
 
 ---
 
@@ -39,15 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamithraFdo&layout=compact&theme=radical" height="130"/>
 </p>
-
----
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamithraFdo/DamithraFdo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamithraFdo/DamithraFdo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DamithraFdo/DamithraFdo/output/github-snake.svg" />
-</picture>
 
 ---
 
