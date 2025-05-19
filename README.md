@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart,flutter,react,nodejs,arduino,raspberrypi,mysql,mongodb,git,github,figma,blender,solidworks,bash,perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart,flutter,react,nodejs,arduino,raspberrypi,mysql,mongodb,git,github,figma,blender,bash&perline=9" />
 </p>
 
 - 🔌 **Automation & Protocols**: Modbus RTU/TCP, BACnet IP, Node-RED  
