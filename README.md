@@ -10,9 +10,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart,flutter,react,nodejs,arduino,raspberrypi,mysql,mongodb,git,github,figma,blender,solidworks,bash&perline=9" />
-  
-  <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="Node-RED" height="40" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart,flutter,react,nodejs,arduino,raspberrypi,mysql,mongodb,git,github,figma,blender,solidworks,bash" />
 </p>
 
 - 🔌 **Automation & Protocols**: Modbus RTU/TCP, BACnet IP, Node-RED  
