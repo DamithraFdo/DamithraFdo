@@ -23,7 +23,7 @@
 ### 💼 Featured Projects
 
 - ⚡ [**Electracker**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Real-time household energy optimization
-- 🤖 [**Subulu**]([https://github.com/yourlink](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – AI-powered robotic companion toy
+- 🤖 [**Subulu**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – AI-powered robotic companion toy
 - 🔍 [**BuzzBee**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Smart IoT farming defense against wildlife
 - 🚗 [**Eco-Speed**](https://drive.google.com/file/d/1yPsXmdB3NazCf8TED47ofgrP73zo-TfS/view?usp=drive_link) – Fuel-efficient digital speed controller
 
